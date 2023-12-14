@@ -2,8 +2,8 @@
 Simple pong clone in Unity.
 
 **Table of Contents**
-- (Features)[#features]
-- (How to play)[#how-to-play]
+- [Features](https://github.com/ForeverPlayable/pong#features)
+- [How to play](https://github.com/ForeverPlayable/pong#how-to-play)
 
 <a name="features"/>
 ### Features
