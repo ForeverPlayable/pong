@@ -1,4 +1,4 @@
-EDITADO DESDE DOCUMENTOS
+EDITADO DESDE DESCARGAS
 
 # pong
 Simple pong clone in Unity.
