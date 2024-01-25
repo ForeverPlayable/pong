@@ -1,5 +1,4 @@
 EDITADO DESDE DESCARGAS
-CAMBIO A DESHACER DE DESCARGAS
 
 # pong
 Simple pong clone in Unity.
@@ -16,4 +15,4 @@ Simple pong clone in Unity.
 - Press Up and Down to move your paddle
 - Press the Horizontal Axis keys (A/D, Left/Right Arrows) to spin your paddle and affect the ball's trayectory
 
-CAMBIO A DESHACER DE DOCUMENTOS
+SALUDOS DESDE DOCUMENTOS
